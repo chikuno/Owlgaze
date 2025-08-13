@@ -1,7 +1,7 @@
 {
     "john_doe": {
         "expiry": "2025-09-15T00:00:00Z",
-        "enabled": false
+        "enabled": true
     },
     "alice_smith": {
         "expiry": "2025-10-01",
