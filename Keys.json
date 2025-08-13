@@ -1,7 +1,7 @@
 {
     "john_doe": {
         "expiry": "2025-09-15T00:00:00Z",
-        "enabled": false
+        "enabled": true
     },
     "alice_smith": {
         "expiry": "2025-10-01",
@@ -10,5 +10,9 @@
     "bob_test": {
         "expiry": { "year": 2025, "month": 12, "day": 31, "hour": 23, "min": 59, "sec": 59 },
         "enabled": false
-    }
+    }, 
+    "admin": {
+        "expiry": "2026-12-12T00:00:00Z",
+        "enabled": true 
+    } 
 }
